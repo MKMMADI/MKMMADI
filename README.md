@@ -17,14 +17,15 @@
 **Languages**
 - Java
 - TypeScript
-- Python
 - JavaScript
+- C#
 - SQL
 
 **Backend & Databases**
 - Node.js
 - Express.js
 - Prisma ORM
+- SpringBoot
 - MySQL
 
 **Cloud & DevOps**
